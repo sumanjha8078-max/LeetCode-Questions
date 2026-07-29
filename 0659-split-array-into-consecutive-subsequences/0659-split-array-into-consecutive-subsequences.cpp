@@ -9,7 +9,6 @@ public:
             while(r < n && use[r] >= use[r-1]) r++;
             cout << l << " " << r << "\n";
             if(r - l < 3){
-                cout << "test2" << "\n";
                 return false;
             } 
             for(int j = l ; j < r ; j++) use[j]--;
@@ -33,11 +32,9 @@ public:
             r++;
         }
         if(l != n){
-            cout << "test1" << "\n";
             return false;
         }
         for(const auto& p : st){
-            cout << p.first << " " << p.second << "\n";
             vector<int> use;
             for(int i = p.first ; i < p.second ; i++) use.push_back(mp[v[i]]);
             if(!is_true(use)) return false;
