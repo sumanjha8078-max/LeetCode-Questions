@@ -7,6 +7,7 @@ This is Daily Problem solving of LeetCode.
 |  |
 | ------- |
 | [0628-maximum-product-of-three-numbers](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2334-subarray-with-elements-greater-than-varying-threshold](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/2334-subarray-with-elements-greater-than-varying-threshold) |
 ## Math
@@ -23,6 +24,7 @@ This is Daily Problem solving of LeetCode.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Stack
 |  |
@@ -62,9 +64,14 @@ This is Daily Problem solving of LeetCode.
 ## Hash Table
 |  |
 | ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
 |  |
 | ------- |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+## Greedy
+|  |
+| ------- |
+| [0659-split-array-into-consecutive-subsequences](https://github.com/sumanjha8078-max/LeetCode-Questions/tree/master/0659-split-array-into-consecutive-subsequences) |
 <!---LeetCode Topics End-->
